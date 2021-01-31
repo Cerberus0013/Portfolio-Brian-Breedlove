@@ -5,31 +5,34 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portfolio- Brian Breedlovet</title>
     <link rel="stylesheet" href="./assets/style.css">
+    <link rel="shortcut icon" href="./assets/images/Letter_B_blue_35053.png" type="image/x-icon">
+
 </head>
 <body>
     <header>
         <h1 href="/" >Howdy, My name is Brian Breedlove</h1>
-    
-            <!-- put this on the left in a column form and make this sticky-->
-            <nav>
-                <img id="me-image"  src="./assets/images/1610920805277.jpeg" alt="">
-                <ul>
-                    <li >
-                        <a href="#about-me1"> About Me </a> 
-                    </li>
-                    <li>
-                        <a href="#portfolio-me1">My Work</a>
-                    </li>
-                     <li>
-                         <a href="testimonials-1">Testimonials</a>
-                     </li>
-                    <li>
-                        <a href="#contact-me1">Reach Out</a>    
-                    </li> 
-                </ul>
-            </nav>
+ 
     </header>
+    <!-- put this on the left in a column form and make this sticky-->
+<div class="nav-sidebar">
+    <ul>
+        <img id="me-image"  src="./assets/images/1610920805277.jpeg" alt="Picture of Brian Breedlove in red shirt">
+        <li >
+                <a href="#about-me1"> About Me </a> 
+            </li>
+            <li>
+                <a href="#portfolio-me1">My Work</a>
+            </li>
+             <li>
+                 <a href="#testimonials-1">Testimonials</a>
+             </li>
+            <li>
+                <a href="#contact-me1">Reach Out</a>    
+            </li> 
+        </ul>
+</div>
 
+<main>
     <!--About me section-->
     <section id="about-me1"  class="about-me">
         <div>
@@ -52,17 +55,32 @@
     </section>
 
     <section id="portfolio-me1" class="portfolio">
+        <h2>My Work</h2>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti, voluptate magnam laborum eaque voluptatibus natus voluptates quod ratione repellendus facilis nobis facere recusandae perspiciatis eligendi dicta sint laboriosam modi non.
+
+
+
+    <h3>Run Buddy</h3>
+       <a href=""> <img src="" alt=""> </a> 
+            
+    
+        
+
 
     </section>
 
-    <section id="testimonils-1" class="testimonials">
+    <section id="testimonials-1" class="testimonials">
+        <h2>Testimonials</h2>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempora illo repellat iste id fugiat a provident quam excepturi hic placeat vel adipisci ullam vitae, doloremque at? Unde aperiam hic cum.
+        </p>
 
     </section>
 
-    <section id="contact-me1" class="contact">
+    <section id="contact-me1" class="contact"> 
+        <div class="contact-info">
         <address>
              <h2>
-                 Contact Info
+                My  Contact Info
              </h2>
             <strong> Email: </strong>
                 <a href="mailto:b.breedlove@outlook.com" target="_blank">  b.breedlove@outlook.com</a>
@@ -71,14 +89,23 @@
                         <br />
             <strong>Linkedin:</strong><a href="https://www.linkedin.com/in/brian-breedlove-64222b153/"target="_blank">  Linkedin Profile- Brian Breedlove
             </a>
-    </address>
-
-
         </address>
-
-        <form action="">
-
+    </div>
+        <!--another way to contact me-->
+     <div class="contact-form" > 
+            <h3>Contact Me</h3>  
+        <form>
+            <label for="contact-name">Your Name </label><br>
+                <input type="text" id="contact-name" placeholder="Your Name" ><br/>
+            <label for="contact-message">What can I help you with? </label> <br/>
+            <textarea type="text" id="contact-message" placeholder="Message" col="50" rows="10"></textarea><br/>
+            <label for="contact-in">Your Infomration</label><br>
+            <textarea type="text" id="contact-in" placeholder="email" col= "2" rows="2" > </textarea> <br>
+           <!--I want to be emailed when this issubmitted--> 
+            <button type="submit"> Submit </button>
         </form>
+        
+     </div>
     </section>
     
     
@@ -89,5 +116,6 @@
         </p>
 
     </footer>
+</main>
 </body>
 </html>
