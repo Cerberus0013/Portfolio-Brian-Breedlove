@@ -24,7 +24,7 @@ Pseudo-Code: I like the idea of highlighting certain interactive elemnet of the 
 Media Queries: At first I thought MQs auto overrid other elements but I found out that I had to address those directly in my CSS MQ code. Eventually I got them to work fairly well. 
 
 
-## Interactive Part
+## Interactive Part (sharable links = website in action)
 
 Enlarging/Highlighting Hyper-text anchor feature
 
@@ -35,7 +35,7 @@ Enlarging/Highlighting Hyper-text anchor feature
 
 <iframe src="https://drive.google.com/file/d/1LXsZuAYXktua7sSVAv5BFZYBFI79mMS-/preview" width="640" height="480"></iframe>
 
-Sharable link https://drive.google.com/file/d/1LXsZuAYXktua7sSVAv5BFZYBFI79mMS-/view:
+Shareable link  https://drive.google.com/file/d/1LXsZuAYXktua7sSVAv5BFZYBFI79mMS-/view:
 
 
 
@@ -46,4 +46,4 @@ Sizing Features
 
 <iframe src="https://drive.google.com/file/d/1-kTXZziZXORI0r8BrFpooA63PrA6S2bK/preview" width="400" height="330" control ></iframe>
 
-Shareable link: https://drive.google.com/file/d/1-kTXZziZXORI0r8BrFpooA63PrA6S2bK/view 
+ **  Shareable link: https://drive.google.com/file/d/1-kTXZziZXORI0r8BrFpooA63PrA6S2bK/view 
