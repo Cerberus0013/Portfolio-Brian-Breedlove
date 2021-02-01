@@ -15,9 +15,13 @@ HTML: for this required a good amount of sectioning. Also anchors in order to ma
 
 Being my first ever website from scratch there was quite a bit of trial and error when it came to the CSS
 
-Flexboxs: This was essential to make the website reactive to changes in browser sizes. It was difficult at first remebering to initate the display flex in the parent as well as the orientation properties of the child element in the box.
+Flexboxs: This was essential to make the website reactive to changes in browser sizes. It was difficult at first remembering to initiate the display flex in the parent element as well as the orientation properties of the child element in the box.
+
+I wanted to add a feature that would send me an email when someone submitted the form, but I found out that I would need to add Javascript for that, so I'll have to update that feature later. 
 
 Pseudo-Code: I like the idea of highlighting certain interactive elemnet of the page, especially the hover: enlargment property I put in there (I found that out  through a quick google search on Css pseudo-code)
+
+Media Queries: At first I thought MQs auto overrid other elements but I found out that I had to address those directly in my CSS MQ code. Eventually I got them to work fairly well. 
 
 
 ## Interactive Part
