@@ -271,11 +271,11 @@ header {
 /*Media query for tablets and smaller*/
 @media screen and (max-width: 768px) {
   
-    header {
+header {
         background-color: none;
     }
   
-    section {
+section {
     padding: 30px 15px;
   }
   img {
@@ -303,44 +303,14 @@ main{
     width: 50%;
 }
 
-    section {
+section {
     padding: 30px 15px;
   }
-  .steps h3 {
-    flex: 1 100%;
-    text-align: center;
-  }
-  .step-info {
-    flex: 2 100%;
-    text-align: center;
-    justify-content: center; 
-  }
-  .step-img {
-    flex: 0 32%;
-    margin-right: 0;
-    margin-top: 15px;
-    margin-bottom: 15px;
-  }
-
-  .step-text {
-    flex: 100%;
-  }
-}
+  
 }
 /*media query for mobile phones and smaller*/
 @media screen and (min-width: 575px){
-    .hero-form button {
-    width: 100%;
-  }
-  .section-title {
-    width: 95%;
-  }
-  .intro p {
-    flex: 0 100%;
-  }
-  .trainer {
-    flex: 0 100%;
-  }
+ 
   .contact-info {
     text-align: center;
   }
