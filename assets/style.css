@@ -30,8 +30,8 @@ header h1 {
   color: var(--color-3);
   font-size: 42px;
   text-shadow: 0 0 20px  rgba(0, 0, 0, 1.0);
-  background-color: rgba(82, 77, 77, 0);
-  border: black;
+  background-color: rgba(82, 77, 77, 1);
+  text-decoration:overline ;
 }
 
 .nav-sidebar  {
@@ -109,13 +109,13 @@ a {
 }
 /* Portfolia CSS */
 .portfolio {
-    margin:  50px 0px 60px 0 px;
+    margin:  5px 0px 6px 0 px;
 }
 .projects {
-    margin-top: 50px;
+     margin-top: 50px;
     display: flex;
     justify-content: space-around;
-    flex-wrap: wrap;    
+    flex-wrap: wrap;  
 }
 .projects h3{
     margin: 40px 10px 20px 10px;
@@ -132,6 +132,8 @@ a {
     flex-wrap: wrap;
     border: 1.5px solid black;
 }
+
+/* testimonails to come */
 
 .testimonials{
     margin: 30px 0px 60px 0 ;
@@ -232,7 +234,7 @@ footer p {
 
 
 @media screen and (max-width: 980px) {
-     header {
+header {
     padding-bottom: 0;
     justify-content: center;
     position:relative;
@@ -247,7 +249,7 @@ footer p {
 }
 
 .nav-sidebar ul li a {
-    opacity: 0;
+;
 }
   header h1 {
     width: 100%;
@@ -297,7 +299,11 @@ footer p {
 
 /*Media query for tablets and smaller*/
 @media screen and (max-width: 768px) {
-section {
+main{
+    width: 50%;
+}
+
+    section {
     padding: 30px 15px;
   }
   .steps h3 {
