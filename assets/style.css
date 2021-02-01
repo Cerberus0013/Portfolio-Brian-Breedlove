@@ -72,7 +72,8 @@ background-color: inherit;
 
 
 .nav-sidebar a:hover {
-    color: #111010;
+    color: #13e941;
+    font-size: 20px;
 }
 
 #me-image {
@@ -82,6 +83,7 @@ background-color: inherit;
   margin-left: 12%;
   margin-top: 5%;
   border: 1.5px solid  blue;
+  flex-grow: 1.3
 } 
 
 main {
@@ -117,11 +119,15 @@ a {
     flex-wrap: wrap;  
 }
 .projects h3{
-    margin: 40px 10px 20px 10px;
+    margin-bottom: 10px;
     text-shadow: 0 0 10px  rgba(0, 0, 0, 0.5);
     text-decoration: underline;
     display: flex;
     flex-wrap: wrap;
+}
+
+.projects h4 {
+  text-decoration: italic;
 }
 
 
@@ -130,6 +136,11 @@ a {
     width: 215px;
     flex-wrap: wrap;
     border: 1.5px solid black;
+}
+
+.projects img:hover{
+  height: 200px;
+  width: 300px;
 }
 
 /* testimonails to come */
