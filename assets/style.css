@@ -1,5 +1,5 @@
 :root {
-    --color-1: #5d5c61;
+    --color-1: #0f0922;
     --color-2: #379683;
     --color-3: #7395ae;
     --color-4: #557a95;
@@ -95,13 +95,8 @@ main h2{
     text-shadow: 0 0 10px  rgba(0, 0, 0, 0.5);
 }
 
-hr {
-  color: black;
-  width: 50%;   
-}
-
 a {
-  color: rgb(32, 4, 156);
+  color: rgb(65, 24, 248);
 }
 
 .about-me{
