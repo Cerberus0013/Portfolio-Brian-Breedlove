@@ -94,6 +94,7 @@ main {
 }
 
 main h2{
+  text-decoration: underline;
     text-shadow:  0 -5 15px  rgba(250, 5, 5, 0.5);
 }
 
