@@ -37,7 +37,8 @@ Sharable link https://drive.google.com/file/d/1LXsZuAYXktua7sSVAv5BFZYBFI79mMS-/
 
 Sizing Features
 
-![](assets/images/screen-shots/Screen Shot 2021-02-01 at 1.54.46 PM.png)
+![Screen Shot 2021-02-01 at 1 54 46 PM](https://user-images.githubusercontent.com/76604281/106519640-d8339d80-6498-11eb-9265-3ae12024ddc8.png)
+
 
 <iframe src="https://drive.google.com/file/d/1-kTXZziZXORI0r8BrFpooA63PrA6S2bK/preview" width="400" height="330" control ></iframe>
 
