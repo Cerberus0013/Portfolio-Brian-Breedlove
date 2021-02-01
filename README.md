@@ -24,7 +24,8 @@ Pseudo-Code: I like the idea of highlighting certain interactive elemnet of the 
 
 Enlarging/Highlighting Hyper-text anchor feature
 
-![](assets/images/screen-shots/Screen Shot 2021-02-01 at 1.54.22 PM.png)
+![Screen Shot 2021-02-01 at 1 54 22 PM](https://user-images.githubusercontent.com/76604281/106519464-8e4ab780-6498-11eb-95d0-2bfa5bddbe05.png)
+
 
 
 
