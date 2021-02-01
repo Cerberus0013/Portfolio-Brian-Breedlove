@@ -12,6 +12,7 @@
     padding: 0;
     box-sizing: border-box;
     background-color: var(--color-1);
+    font-size: 24px;
 }
 
 header {
@@ -73,7 +74,7 @@ background-color: inherit;
 
 .nav-sidebar a:hover {
     color: #13e941;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 #me-image {
@@ -89,10 +90,11 @@ background-color: inherit;
 main {
   margin-left: 25%;
   color: var(--color-2);
+  font-size: 18px;
 }
 
 main h2{
-    text-shadow: 0 0 10px  rgba(0, 0, 0, 0.5);
+    text-shadow:  0 -5 15px  rgba(250, 5, 5, 0.5);
 }
 
 a {

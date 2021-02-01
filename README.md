@@ -24,7 +24,7 @@ Pseudo-Code: I like the idea of highlighting certain interactive elemnet of the 
 Media Queries: At first I thought MQs auto overrid other elements but I found out that I had to address those directly in my CSS MQ code. Eventually I got them to work fairly well. 
 
 
-## Interactive Part (sharable links = website in action)
+## Interactive Part (shareable links = website in action)
 
 Enlarging/Highlighting Hyper-text anchor feature
 
