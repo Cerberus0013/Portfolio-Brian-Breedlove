@@ -22,16 +22,22 @@ Pseudo-Code: I like the idea of highlighting certain interactive elemnet of the 
 
 ## Interactive Part
 
-Enlarging/Highlighting Hyper-text anchor features
+Enlarging/Highlighting Hyper-text anchor feature
 
-<iframe src="https://drive.google.com/file/d/1I2thm97Vfn2pBPqnmeJt523obaJa-3f7/preview" view" width="400" height="330" control ></iframe>
-
-Shareable link: https://drive.google.com/file/d/1I2thm97Vfn2pBPqnmeJt523obaJa-3f7/view
+![](assets/images/screen-shots/Screen Shot 2021-02-01 at 1.54.22 PM.png)
 
 
 
-Sizing Feature
+<iframe src="https://drive.google.com/file/d/1LXsZuAYXktua7sSVAv5BFZYBFI79mMS-/preview" width="640" height="480"></iframe>
+
+Sharable link https://drive.google.com/file/d/1LXsZuAYXktua7sSVAv5BFZYBFI79mMS-/view:
+
+
+
+Sizing Features
+
+![](assets/images/screen-shots/Screen Shot 2021-02-01 at 1.54.46 PM.png)
 
 <iframe src="https://drive.google.com/file/d/1-kTXZziZXORI0r8BrFpooA63PrA6S2bK/preview" width="400" height="330" control ></iframe>
 
-Shareable link: https://drive.google.com/file/d/1-kTXZziZXORI0r8BrFpooA63PrA6S2bK/view
+Shareable link: https://drive.google.com/file/d/1-kTXZziZXORI0r8BrFpooA63PrA6S2bK/view 
