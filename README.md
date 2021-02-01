@@ -33,9 +33,7 @@ Enlarging/Highlighting Hyper-text anchor feature
 
 
 
-<iframe src="https://drive.google.com/file/d/1LXsZuAYXktua7sSVAv5BFZYBFI79mMS-/preview" width="640" height="480"></iframe>
-
-Shareable link  https://drive.google.com/file/d/1LXsZuAYXktua7sSVAv5BFZYBFI79mMS-/view:
+Shareable link (video):  https://drive.google.com/file/d/1LXsZuAYXktua7sSVAv5BFZYBFI79mMS-/view:
 
 
 
@@ -44,6 +42,4 @@ Sizing Features
 ![Screen Shot 2021-02-01 at 1 54 46 PM](https://user-images.githubusercontent.com/76604281/106519640-d8339d80-6498-11eb-9265-3ae12024ddc8.png)
 
 
-<iframe src="https://drive.google.com/file/d/1-kTXZziZXORI0r8BrFpooA63PrA6S2bK/preview" width="400" height="330" control ></iframe>
-
- **  Shareable link: https://drive.google.com/file/d/1-kTXZziZXORI0r8BrFpooA63PrA6S2bK/view 
+  Shareable link (video) : https://drive.google.com/file/d/1-kTXZziZXORI0r8BrFpooA63PrA6S2bK/view 
