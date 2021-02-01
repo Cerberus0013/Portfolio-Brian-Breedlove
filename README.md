@@ -24,7 +24,7 @@ Pseudo-Code: I like the idea of highlighting certain interactive elemnet of the 
 
 Enlarging/Highlighting Hyper-text anchor features
 
-<iframe src="https://drive.google.com/file/d/1I2thm97Vfn2pBPqnmeJt523obaJa-3f7/preview" alt="https://drive.google.com/file/d/1I2thm97Vfn2pBPqnmeJt523obaJa-3f7/view" width="400" height="330" control ></iframe>
+<iframe src="https://drive.google.com/file/d/1I2thm97Vfn2pBPqnmeJt523obaJa-3f7/preview" view" width="400" height="330" control ></iframe>
 
 Shareable link: https://drive.google.com/file/d/1I2thm97Vfn2pBPqnmeJt523obaJa-3f7/view
 
