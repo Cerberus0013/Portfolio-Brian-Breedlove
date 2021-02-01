@@ -30,4 +30,8 @@ Shareable link: https://drive.google.com/file/d/1I2thm97Vfn2pBPqnmeJt523obaJa-3f
 
 
 
-Sizing Features
+Sizing Feature
+
+<iframe src="https://drive.google.com/file/d/1-kTXZziZXORI0r8BrFpooA63PrA6S2bK/preview" width="400" height="330" control ></iframe>
+
+Shareable link: https://drive.google.com/file/d/1-kTXZziZXORI0r8BrFpooA63PrA6S2bK/view
