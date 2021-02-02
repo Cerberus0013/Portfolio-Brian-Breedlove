@@ -5,7 +5,9 @@
 
 ## Summary
 
-This is a portfolio built from scratch in order to exhibit my HTML and CSS skills. Also as an on going website to show off my skills as I learne and grow through this bootcamp.
+This is a portfolio built from scratch in order to exhibit my HTML and CSS skills. Also as an on going website to show off my skills as I learn and grow through this bootcamp.
+
+this is currently a WIP, The ones with dates are finished ones, while the ones without are just placeholders 
 
 ## HTML 
 
